@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @linhhihi
+- 👋 Hi, I’m @lindsienguyen
 - 📫 How to reach me @thuylinhny
 
 <!---
