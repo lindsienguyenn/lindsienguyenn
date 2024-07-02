@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lindsienguyenn
-- 📫 How to reach me thuylinhnguyen0809@gmail.com
+- 📫 How to reach me linhtnguyen_2025@depauw.edu
 
 <!---
 linhhihi/linhhihi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
