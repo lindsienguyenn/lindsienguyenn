@@ -1,11 +1,11 @@
 <h1 align="left">Hey, I'm Lindsie 🌟</h1>
-<h3 align="left"> I am a data enthusiast extracting insights and crafting impactful visualizations for strategic decisions.</h3>
+<h3 align="left"> I am a data enthusiast who loves extracting insights and crafting meaningful visualizations for strategic decisions.</h3>
 
 - 🔭 I’m currently working on **Predict AirBnB Prices in London Project**
 
-- ⚡ **Do it scared is my motto in life**
+- ⚡ I enjoy cooking and going on adventures
 
-- 📫 How to reach me **linhtnguyen_2025@depauw.edu**
+- 📫 Reach me through **linhtnguyen_2025@depauw.edu** 
 
 
 
