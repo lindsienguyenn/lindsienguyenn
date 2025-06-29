@@ -1,4 +1,4 @@
-<h1 align="left">Heloo, I'm Lindsie 🌟</h1>
+<h1 align="left">Hello, I'm Lindsie 🌟</h1>
 <h3 align="left"> I am a data enthusiast who loves extracting insights and crafting meaningful visualizations for strategic decisions.</h3>
 
 - 🔭 I’m currently working on **Predict AirBnB Prices in London Project**
