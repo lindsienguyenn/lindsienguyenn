@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Predict AirBnB Prices in London Project**
 
-- ⚡ I enjoy cooking and going on adventures
+- ⚡ I enjoy going on adventures and cooking
 
 - 📫 Reach me through **linhtnguyen_2025@depauw.edu** 
 
