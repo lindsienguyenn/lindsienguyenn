@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Lindsie 🌟</h1>
 <h3 align="left"> A data-driven analyst who uses data to support business decisions.</h3>
 
-- I’m currently working on **Predict AirBnB Prices in London Project**
+- I’m currently working on **Predicting the Energy Consumption for Buildings**
 
 - I enjoy going on adventures and cooking
 
