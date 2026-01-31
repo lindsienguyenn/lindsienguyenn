@@ -1,11 +1,11 @@
 <h1 align="left">Hi, I'm Lindsie 🌟</h1>
 <h3 align="left"> A data-driven analyst who uses data to support business decisions.</h3>
 
-- 🔭 I’m currently working on **Predict AirBnB Prices in London Project**
+- I’m currently working on **Predict AirBnB Prices in London Project**
 
-- ⚡ I enjoy going on adventures and cooking
+- I enjoy going on adventures and cooking
 
-- 📫 Reach me through **linhtnguyen_2025@depauw.edu** 
+- Reach me through **linhtnguyen_2025@depauw.edu** 
 
 
 
